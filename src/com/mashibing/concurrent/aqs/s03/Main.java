@@ -3,7 +3,7 @@ package com.mashibing.concurrent.aqs.s03;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @Author: wuqing
+ * @Author:  
  */
 public class Main {
 

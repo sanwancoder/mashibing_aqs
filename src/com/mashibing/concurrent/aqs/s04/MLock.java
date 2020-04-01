@@ -5,7 +5,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 
 /**
- * @Author: wuqing
+ * @Author:  
  */
 public class MLock implements Lock {
 

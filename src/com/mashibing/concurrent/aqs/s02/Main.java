@@ -1,7 +1,7 @@
 package com.mashibing.concurrent.aqs.s02;
 
 /**
- * @Author: wuqing
+ * @Author:  
  */
 public class Main {
 

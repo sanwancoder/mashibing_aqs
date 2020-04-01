@@ -3,7 +3,7 @@ package com.mashibing.concurrent.aqs.s08;
 import java.util.concurrent.locks.Lock;
 
 /**
- * @Author: wuqing
+ * @Author:  
  */
 public class Main {
 
